@@ -66,6 +66,6 @@ ________________________________________
 ________________________________________
 
 📁 Project Files
-•	layoffs_data_cleaning.sql – SQL script used for data cleaning
+•	Portfolio Project 1 - Data Cleaning SP – SQL script used for data cleaning
 •	layoffs.csv – Original dataset
 
